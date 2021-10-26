@@ -75,6 +75,15 @@ Transfer Parametr:id and Update this address parametrs: country,city,address1,ad
 
 --------------------------------------------------------------------------------------------
 
+Delete address -- Post method
+
+http://localhost/restapi/public/api/address/{id}
+
+Transfer Parametr:id and remove this address
+
+![image](https://user-images.githubusercontent.com/9627906/138964374-4ecbf432-7452-4145-a538-22a3747e0846.png)
+
+
 get Customer address Info -- Get method
 
 http://localhost/restapi/public/api/customers/{id}/address
