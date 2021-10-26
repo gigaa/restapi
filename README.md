@@ -38,3 +38,6 @@ http://localhost/restapi/public/api/customers/{id}/address
 
 Transfer Parametr:id and return responce customer address info
 
+![image](https://user-images.githubusercontent.com/9627906/138961100-c814ab46-7d46-47f1-bf2c-b936d47335ef.png)
+
+
