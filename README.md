@@ -1,6 +1,7 @@
 # restapi
 
 Show Customer -- Get method
+
 ![image](https://user-images.githubusercontent.com/9627906/138958166-523ecaa0-5e14-4aab-8601-c67f17c5e05e.png)
 
 http://localhost/restapi/public/api/customers?page=2
