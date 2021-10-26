@@ -65,6 +65,16 @@ Transfer Parametrs:  country,city,address1,address2
 
 --------------------------------------------------------------------------------------------
 
+Update address -- Put method
+
+http://localhost/restapi/public/api/address/{id}
+
+Transfer Parametr:id and Update this address parametrs: country,city,address1,address2
+
+![image](https://user-images.githubusercontent.com/9627906/138963785-70394a85-675d-4cf9-b27e-d2851da11755.png)
+
+--------------------------------------------------------------------------------------------
+
 get Customer address Info -- Get method
 
 http://localhost/restapi/public/api/customers/{id}/address
@@ -73,13 +83,4 @@ Transfer Parametr:id and return responce customer address info
 
 ![image](https://user-images.githubusercontent.com/9627906/138961100-c814ab46-7d46-47f1-bf2c-b936d47335ef.png)
 
---------------------------------------------------------------------------------------------
-
-Update address -- Put method
-
-http://localhost/restapi/public/api/customers/{id}
-
-Transfer Parametr:id and Update this address parametrs: country,city,address1,address2
-
-![image](https://user-images.githubusercontent.com/9627906/138963785-70394a85-675d-4cf9-b27e-d2851da11755.png)
 
