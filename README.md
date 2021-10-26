@@ -83,6 +83,7 @@ Transfer Parametr:id and remove this address
 
 ![image](https://user-images.githubusercontent.com/9627906/138964374-4ecbf432-7452-4145-a538-22a3747e0846.png)
 
+--------------------------------------------------------------------------------------------
 
 get Customer address Info -- Get method
 
