@@ -31,3 +31,10 @@ http://localhost/restapi/public/api/customers/{id}
 Transfer Parametr:id and remove this customer
 
 ![image](https://user-images.githubusercontent.com/9627906/138959502-7119f8da-0f74-46b3-9f15-2306f7095128.png)
+
+get Customer address Info -- Get method
+
+http://localhost/restapi/public/api/customers/{id}/address
+
+Transfer Parametr:id and return responce customer address info
+
