@@ -45,6 +45,25 @@ Transfer Parametr:id and remove this customer
 --------------------------------------------------------------------------------------------
                                                          Address
 --------------------------------------------------------------------------------------------
+Show Address -- Get method
+
+http://localhost/restapi/public/api/address
+
+return customer list
+
+![image](https://user-images.githubusercontent.com/9627906/138963266-6cff2457-0da7-4d21-835e-64b15376329f.png)
+
+--------------------------------------------------------------------------------------------
+
+Create Address -- Post method
+
+http://localhost/restapi/public/api/address
+
+Transfer Parametrs:  country,city,address1,address2 
+
+![image](https://user-images.githubusercontent.com/9627906/138962381-2579497f-20af-438e-b27d-0f90059851b8.png)
+
+--------------------------------------------------------------------------------------------
 
 get Customer address Info -- Get method
 
@@ -53,5 +72,8 @@ http://localhost/restapi/public/api/customers/{id}/address
 Transfer Parametr:id and return responce customer address info
 
 ![image](https://user-images.githubusercontent.com/9627906/138961100-c814ab46-7d46-47f1-bf2c-b936d47335ef.png)
+
+
+
 
 
